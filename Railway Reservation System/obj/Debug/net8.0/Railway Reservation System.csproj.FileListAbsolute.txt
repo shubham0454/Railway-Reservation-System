@@ -1,0 +1,14 @@
+E:\C# Code\Railway Reservation System\bin\Debug\net8.0\Railway Reservation System.exe
+E:\C# Code\Railway Reservation System\bin\Debug\net8.0\Railway Reservation System.deps.json
+E:\C# Code\Railway Reservation System\bin\Debug\net8.0\Railway Reservation System.runtimeconfig.json
+E:\C# Code\Railway Reservation System\bin\Debug\net8.0\Railway Reservation System.dll
+E:\C# Code\Railway Reservation System\bin\Debug\net8.0\Railway Reservation System.pdb
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\Railway Reservation System.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\Railway Reservation System.AssemblyInfoInputs.cache
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\Railway Reservation System.AssemblyInfo.cs
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\Railway Reservation System.csproj.CoreCompileInputs.cache
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\Railway Reservation System.dll
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\refint\Railway Reservation System.dll
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\Railway Reservation System.pdb
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\Railway Reservation System.genruntimeconfig.cache
+E:\C# Code\Railway Reservation System\obj\Debug\net8.0\ref\Railway Reservation System.dll
